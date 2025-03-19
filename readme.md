@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório de estudos de frontend! 🚀
 
 Este repositório foi criado para acompanhar minha evolução no desenvolvimento frontend através da prática com diferentes tecnologias. O objetivo principal é desenvolver aplicações web, partindo de projetos simples e estáticos utilizando **HTML** e **CSS**, até páginas responsivas mais avançadas com frameworks como **React** e **Angular**.
 
-## 🛠 Tecnologias que petendo Utilizadas
+## 🛠 Tecnologias que petendo Utilizar
 - **HTML e CSS**: Para a construção de páginas estáticas e estilização básica.
 - **JavaScript**: Para adicionar interatividade às aplicações.
 - **React,Angular Vue e etc**: Para a criação de aplicações dinâmicas e responsivas.
